@@ -6,3 +6,4 @@ Welcome to my little corner of the internet.
  - I've worked closely with CyberSecurity, Deep Learning and Drones.
  - I love learning new things about different parts of computer science
  - Besides work, I code in my free time, code while eating and code while I sleep :)
+ - You can find some of my other projects [here](https://github.com/adivar99) as well!
